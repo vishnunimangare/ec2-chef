@@ -4,8 +4,8 @@
 Basic Chef Workstation Project
 
 ```
-git clone https://github.com/atulkamble/chef-project.git
-cd chef-project
+git clone https://github.com/atulkamble/ec2-chef.git
+cd ec2-chef
 
 chmod +x setup_chef_project.sh
 ./setup_chef_project.sh
